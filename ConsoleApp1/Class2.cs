@@ -10,6 +10,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello");
             Console.WriteLine("嗨，你好");
+            Console.WriteLine("呼呼呼");
         }
        
     }
