@@ -12,6 +12,7 @@ namespace ConsoleApp1
             Console.WriteLine("嗨，你好");
             Console.WriteLine("呼呼呼");
             Console.WriteLine("dsdsaasds");
+            Console.WriteLine("哈萨克大家萨拉科技");
         }
        
     }
