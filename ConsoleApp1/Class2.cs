@@ -4,7 +4,12 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class Class2
+    public class Class2
     {
+        public void sta()
+        {
+            Console.WriteLine("hello");
+        }
+       
     }
 }
