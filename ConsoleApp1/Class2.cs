@@ -9,6 +9,7 @@ namespace ConsoleApp1
         public void sta()
         {
             Console.WriteLine("hello");
+            Console.WriteLine("嗨，你好");
         }
        
     }
